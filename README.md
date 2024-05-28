@@ -156,7 +156,17 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+THEOTHERGUY23 -[Github](https://github.com/THEOTHERGUY23) / [X](https://x.com/MziMeiSteR23)
 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+
+##Updates
+Make all tests pass
+Improve the storage
+start API
+Create an endpoint that retrieves the number of each objects
+create a handler for 404 errors that returns a JSON-formatted 404 status code response. The content should be: "error": "Not found"
+Create a new view for State objects that handles all default RESTFul API actions
+just making everything better.
